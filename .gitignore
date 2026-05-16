@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+*.sqlite3
+*.db
+
+config.py
+secret.py
